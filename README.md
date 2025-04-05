@@ -10,7 +10,7 @@
 ✔ Smooth Animations – CSS transitions for an engaging user experience.
 ✔ Easy Customization – Change products, colors, and styles in minutes.
 
-🌐 Live Demo: [](https://roshnijaiswal70489.github.io/RoshniEcommerce/)
+ [🌐 Live Demo:](https://roshnijaiswal70489.github.io/RoshniEcommerce/)
 
 💻 Tech Stack: HTML5 | CSS3 | JavaScript
 
